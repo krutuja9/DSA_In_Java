@@ -2,14 +2,6 @@
 
 This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions implemented in Java. It's designed to help you practice and improve your problem-solving skills in preparation for technical interviews and competitive programming.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Directory Structure](#directory-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Getting Started
 
@@ -24,3 +16,5 @@ To run the Java programs in this repository, you'll need to have:
 
 To clone this repository, use the following command:
 
+```bash
+git clone https://github.com/YOUR_USERNAME/Java-DSA-Repo.git
